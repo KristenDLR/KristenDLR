@@ -6,7 +6,7 @@ problem-solving skills to build impactful technology.</h3>
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://kristendlr.github.io/](https://kristendlr.github.io/)
+- 👨‍💻 My projects are available at [https://kristendlr.github.io/](https://kristendlr.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 

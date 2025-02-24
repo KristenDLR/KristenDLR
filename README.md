@@ -2,8 +2,6 @@
 <h3 align="center">I am a growth-oriented software engineer with a background in education, leveraging strong communication and
 problem-solving skills to build impactful technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kristendlr&label=Profile%20views&color=0e75b6&style=flat" alt="kristendlr" /> </p>
-
 - 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 My projects are available at [https://kristendlr.github.io/](https://kristendlr.github.io/)
